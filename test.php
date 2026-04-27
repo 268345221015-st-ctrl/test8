@@ -1,3 +1,3 @@
 <?php
-    <h1>สวัสดี วิชา Mobile Web App.</h1>
+    echo สวัสดี วิชา Mobile Web App
 ?>
